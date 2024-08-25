@@ -1,4 +1,5 @@
 Tasks:
+Using Social Buzz company data analysis
 
 **1.Analysis of Dataset:** We identified that Social Buzz needed a thorough analysis of their existing datasets to extract meaningful insights for growth and used 3 different datasets(ReactionTypes , Content ,
 Reactions) csv files to analyse each seperately, how each variable affects the other , how does it play a role in analysing and the realtionships between the variables.
